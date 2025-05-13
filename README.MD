@@ -9,6 +9,8 @@
 Google's Agent-to-Agent (A2A) protocol is a powerful framework that enables AI agents to communicate and collaborate effectively. This project demonstrates how to implement A2A with comprehensive observability using Grafana, showcasing a health club service agent as an example.  
 A2AJava is the Java implementation of the Google A2A protocol you can check the project [here](https://github.com/vishalmysore/a2ajava) .
 
+![arhicture](arch.png)
+
 ### Deep Task Observability
 
 The system can provides comprehensive visibility into agent interactions:
