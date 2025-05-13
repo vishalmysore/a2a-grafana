@@ -1,4 +1,4 @@
-# A2A Protocol with Grafana Integration
+# A2A Protocol with Grafana : Build Observable Agents
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Java Version](https://img.shields.io/badge/Java-23-orange.svg)](https://www.oracle.com/java/technologies/javase/jdk23-archive-downloads.html)
