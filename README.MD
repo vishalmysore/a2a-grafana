@@ -160,21 +160,3 @@ The A2A agent is exposed through the `AgentCardController` at the well-known pat
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**Vishal Mysore**
-- Email: visrow@gmail.com
-- GitHub: [@vishalmysore](https://github.com/vishalmysore)
-
-## 🙏 Acknowledgments
-
-- Google A2A Protocol team
-- Spring Boot community
-- Grafana and Prometheus teams
-
----
-*For more detailed information about the Grafana setup, please refer to the official Grafana documentation.*
